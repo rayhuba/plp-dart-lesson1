@@ -6,8 +6,9 @@ String address = "Kenya";
 num age = 20; //whole number
 num height = 5.9; //decimal numbers
 bool isMarried = false; //boolean
-
+//i will be a good coder
 //printing variables value
+//comment
 print("His/Her name is $name");
 print("Address is $address");
 print("Age is $age");
